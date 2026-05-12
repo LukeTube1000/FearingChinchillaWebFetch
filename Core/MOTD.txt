@@ -1,4 +1,4 @@
-<color=blue>Hiya thanks for playing Fearing Chinchilla's beta test! </color><color=teal>I assume you are one of my friends, so whats up!</color><color=red> Tell me if there are any bugs, or if you have suggestions.</color>
+<color=blue>Hiya thanks for playing Fearing Chinchilla's beta test! </color><color=#008080>I assume you are one of my friends, so whats up!</color><color=red> Tell me if there are any bugs, or if you have suggestions.</color>
 <color=purple>
 Latest Update:
 
