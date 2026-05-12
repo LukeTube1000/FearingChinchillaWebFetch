@@ -1,5 +1,6 @@
-Hiya thanks for playing Fearing Chinchilla's beta test. I assume you are one of my friends, so whats up! Tell me if there are any bugs, or if you have suggestions.
-
+<color=blue>Hiya thanks for playing Fearing Chinchilla's beta test! </color><color=teal>I assume you are one of my friends, so whats up!</color><color=red> Tell me if there are any bugs, or if you have suggestions.</color>
+<color=purple>
 Latest Update:
 
 Written:
+</color>
